@@ -37,7 +37,7 @@ contentType: prose
 
 
 
-* * *
+\* \* \*
 
 > Item, čím slepců pamatuji,  
 > jichž vzpomínám si mnohé chvíle?  
@@ -86,7 +86,7 @@ contentType: prose
 
 
 
-* * *
+\* \* \*
 
 > Item, Jakoubku pláteníku —  
 > ne že bych se ho snad byl zřek —  

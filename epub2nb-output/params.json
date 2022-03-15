@@ -16,7 +16,7 @@
       "h2": "MLP-uroven3-nadpis\n",
       "h3": "",
       "h4": "",
-      "hr": "MLP_uroven3_basne",
+      "hr": "",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
@@ -484,7 +484,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "François Villon",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-15T12:43:25.111Z"
+      "modified": "2022-03-15T13:27:42.757Z"
     },
     "chapters": [
       {
@@ -760,6 +760,6 @@
       "user": "books-are-next",
       "repo": "zavet"
     },
-    "generatedAt": 1647348205466
+    "generatedAt": 1647350863106
   }
 }

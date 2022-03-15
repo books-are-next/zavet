@@ -19,7 +19,7 @@ contentType: prose
 
 
 
-* * *
+\* \* \*
 
 > Item, kde náhrobek je můj,  
 > tam nařizuji: u mých hlav  
