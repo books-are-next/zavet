@@ -37,7 +37,7 @@ contentType: prose
 
 
 
-## \* \* \*
+* * *
 
 > Item, mám něco pro Margot,  
 > tu tlustou krásku, s níž jsme měli,  

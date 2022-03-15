@@ -37,7 +37,7 @@ contentType: prose
 
 
 
-## \* \* \*
+* * *
 
 > Item, dva bratry vyřazuji,  
 > vykutálené klevetníky.  

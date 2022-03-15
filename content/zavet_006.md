@@ -37,7 +37,7 @@ contentType: prose
 
 
 
-## \* \* \*
+* * *
 
 > Nechť se to hejskům jinak zdá:  
 > je pomíjivý tento svět  

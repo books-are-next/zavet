@@ -37,7 +37,7 @@ contentType: prose
 
 
 
-## \* \* \*
+* * *
 
 > Tohleto mravné poučení  
 > jim dává kráska byvších dnů.  
