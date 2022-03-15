@@ -33,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "zavet_001.md",
             "xhtml": "zavet_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -50,9 +51,9 @@
             "filename": "zavet_002.md",
             "xhtml": "zavet_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -62,9 +63,9 @@
             "filename": "zavet_003.md",
             "xhtml": "zavet_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -74,9 +75,9 @@
             "filename": "zavet_004.md",
             "xhtml": "zavet_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -92,7 +93,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Závěť"
           },
           {
             "filename": "zavet_006.md",
@@ -101,10 +103,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada o dámách někdejší doby"
           },
           {
             "filename": "zavet_007.md",
@@ -114,7 +117,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -125,10 +128,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nářek někdejší sličné zbrojmistrové"
           },
           {
             "filename": "zavet_009.md",
@@ -137,10 +141,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada sličné zbrojmistrové nevěstkám"
           },
           {
             "filename": "zavet_010.md",
@@ -150,7 +155,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -161,10 +166,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Dvojbalada o bláznovství v lásce"
           },
           {
             "filename": "zavet_012.md",
@@ -174,7 +180,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -185,10 +191,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Modlitba k Panně Mariisložená pro Villonovu matku"
           },
           {
             "filename": "zavet_014.md",
@@ -198,7 +205,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -209,10 +216,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Rondeau"
           },
           {
             "filename": "zavet_016.md",
@@ -222,7 +230,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -233,10 +241,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada a modlitba"
           },
           {
             "filename": "zavet_018.md",
@@ -246,7 +255,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -257,10 +266,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada o jazycích klevetníků"
           },
           {
             "filename": "zavet_020.md",
@@ -270,7 +280,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -281,10 +291,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada-protest"
           },
           {
             "filename": "zavet_022.md",
@@ -294,7 +305,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -305,10 +316,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada o zobáčku Pařížanek"
           },
           {
             "filename": "zavet_024.md",
@@ -318,7 +330,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -329,10 +341,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada o tlusté Margot"
           },
           {
             "filename": "zavet_026.md",
@@ -341,10 +354,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada mravoučná"
           },
           {
             "filename": "zavet_027.md",
@@ -354,7 +368,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -366,7 +380,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -377,10 +391,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Rondeau"
           },
           {
             "filename": "zavet_030.md",
@@ -390,7 +405,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -401,10 +416,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Rondeau"
           },
           {
             "filename": "zavet_032.md",
@@ -414,7 +430,7 @@
             "listType": "plain",
             "inToc": true,
             "hungry": false,
-            "devoured": false,
+            "devoured": true,
             "hiddenTitle": false,
             "children": []
           },
@@ -425,10 +441,11 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada kajícná"
           },
           {
             "filename": "zavet_034.md",
@@ -437,24 +454,26 @@
             "role": "chapter",
             "listType": "plain",
             "inToc": true,
-            "hungry": false,
+            "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada závěrečná"
           },
           {
             "filename": "zavet_035.md",
             "xhtml": "zavet_035.xhtml",
             "id": 34,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
             "children": []
           }
-        ]
+        ],
+        "devoured": false
       }
     ],
     "replacements": []
@@ -465,7 +484,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "François Villon",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-15T12:05:02.992Z"
+      "modified": "2022-03-15T12:37:07.713Z"
     },
     "chapters": [
       {
@@ -741,6 +760,6 @@
       "user": "books-are-next",
       "repo": "zavet"
     },
-    "generatedAt": 1647345903357
+    "generatedAt": 1647347828067
   }
 }

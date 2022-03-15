@@ -41,3 +41,16 @@ contentType: prose
 > to lepší je než lít to do cedníku;  
 > trus prasat vem, to zvlášť si připomeň,  
 > a škvař v tom jazyky svých klevetníků!
+
+
+
+## \* \* \*
+
+> Item, pro mistra Courault je  
+> tu připravena replika  
+> na slavnou báseň „Franc Gontier“,  
+> kde vzdána chvála veliká  
+> všemu, čím venkov vyniká:  
+> též chudobě tam vzdán je dík,  
+> na niž přec kdekdo naříká.  
+> Z té pochvaly můj protest vznik:

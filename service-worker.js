@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-f5902db';
+const CACHE = 'cache-2066d56';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./zavet_001.html","./zavet_002.html","./zavet_003.html","./zavet_004.html","./zavet_005.html","./zavet_006.html","./zavet_007.html","./zavet_008.html","./zavet_009.html","./zavet_010.html","./zavet_011.html","./zavet_012.html","./zavet_013.html","./zavet_014.html","./zavet_015.html","./zavet_016.html","./zavet_017.html","./zavet_018.html","./zavet_019.html","./zavet_020.html","./zavet_021.html","./zavet_022.html","./zavet_023.html","./zavet_024.html","./zavet_025.html","./zavet_026.html","./zavet_027.html","./zavet_028.html","./zavet_029.html","./zavet_030.html","./zavet_031.html","./zavet_032.html","./zavet_033.html","./zavet_034.html","./zavet_035.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_zavet3.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./zavet_002.html","./zavet_005.html","./zavet_006.html","./zavet_008.html","./zavet_009.html","./zavet_011.html","./zavet_013.html","./zavet_015.html","./zavet_017.html","./zavet_019.html","./zavet_021.html","./zavet_023.html","./zavet_025.html","./zavet_026.html","./zavet_029.html","./zavet_031.html","./zavet_033.html","./zavet_034.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_zavet3.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {

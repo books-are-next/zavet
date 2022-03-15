@@ -40,3 +40,16 @@ contentType: prose
 > Co mne se týká, říkám bez mučení,  
 > už v dětství slyšel jsem ten moudrý hlas:  
 > Žít v komfortu, ach, nad to v světě není!
+
+
+
+## \* \* \*
+
+> Item, dbej, slečna de Bruyères,  
+> jež výtečně se v písmu zná,  
+> o vyšší vychování dcer  
+> pomocí Evangelia.  
+> Ta cvičení svá odborná  
+> s nimi, co klofou zobákem,  
+> nechť někde mimo hřbitov má.  
+> Nejraděj z tržiště je vem!
