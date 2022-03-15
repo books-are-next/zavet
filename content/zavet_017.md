@@ -34,3 +34,16 @@ contentType: prose
 > Volal jen „Pít! Mám v hrdle suchopár“ —  
 > on, který žízní, jako žíznil vždy,  
 > ten slavný pijan, mistr Jean Cotart!
+
+
+
+## \* \* \*
+
+> Item, dva bratry vyřazuji,  
+> vykutálené klevetníky.  
+> Perdrier Jan a Frantík slují;  
+> jazyky mají jako dýky,  
+> však já znám čelit, bohudíky,  
+> těm udavačům Perdrier.  
+> Jak že lze vyzrát na jazyky?  
+> Prostinký na to recept je:
