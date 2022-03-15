@@ -19,7 +19,7 @@ contentType: prose
 
 
 
-* * *
+\* \* \*
 
 > Zchystejte tedy k pohřbu vše,  
 > zvon na věži i svíček jas;  
