@@ -1,1 +1,746 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "poetry",
+      "title": "Závěť",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "François Villon",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-15T11:26:37.118Z",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_basne",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis\nMLP_uroven3_basne",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku \nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku\nMLP_text_bez1radku_-12-0-",
+      "brAfter": "MLP-text-bez1radku--0-12\nMLP_text_bez1radku_-0-12-",
+      "blockquote": "MLP_verse_-0-12-\n\nMLP_verse_-12-12-\n\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\nMLP_tiraz_autor_a_nazev",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "children": [
+          {
+            "filename": "zavet_001.md",
+            "xhtml": "zavet_001.xhtml",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_002.md",
+            "xhtml": "zavet_002.xhtml",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_003.md",
+            "xhtml": "zavet_003.xhtml",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_004.md",
+            "xhtml": "zavet_004.xhtml",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_005.md",
+            "xhtml": "zavet_005.xhtml",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_006.md",
+            "xhtml": "zavet_006.xhtml",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_007.md",
+            "xhtml": "zavet_007.xhtml",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_008.md",
+            "xhtml": "zavet_008.xhtml",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_009.md",
+            "xhtml": "zavet_009.xhtml",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_010.md",
+            "xhtml": "zavet_010.xhtml",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_011.md",
+            "xhtml": "zavet_011.xhtml",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_012.md",
+            "xhtml": "zavet_012.xhtml",
+            "id": 11,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_013.md",
+            "xhtml": "zavet_013.xhtml",
+            "id": 12,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_014.md",
+            "xhtml": "zavet_014.xhtml",
+            "id": 13,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_015.md",
+            "xhtml": "zavet_015.xhtml",
+            "id": 14,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_016.md",
+            "xhtml": "zavet_016.xhtml",
+            "id": 15,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_017.md",
+            "xhtml": "zavet_017.xhtml",
+            "id": 16,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_018.md",
+            "xhtml": "zavet_018.xhtml",
+            "id": 17,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_019.md",
+            "xhtml": "zavet_019.xhtml",
+            "id": 18,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_020.md",
+            "xhtml": "zavet_020.xhtml",
+            "id": 19,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_021.md",
+            "xhtml": "zavet_021.xhtml",
+            "id": 20,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_022.md",
+            "xhtml": "zavet_022.xhtml",
+            "id": 21,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_023.md",
+            "xhtml": "zavet_023.xhtml",
+            "id": 22,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_024.md",
+            "xhtml": "zavet_024.xhtml",
+            "id": 23,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_025.md",
+            "xhtml": "zavet_025.xhtml",
+            "id": 24,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_026.md",
+            "xhtml": "zavet_026.xhtml",
+            "id": 25,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_027.md",
+            "xhtml": "zavet_027.xhtml",
+            "id": 26,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_028.md",
+            "xhtml": "zavet_028.xhtml",
+            "id": 27,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_029.md",
+            "xhtml": "zavet_029.xhtml",
+            "id": 28,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_030.md",
+            "xhtml": "zavet_030.xhtml",
+            "id": 29,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_031.md",
+            "xhtml": "zavet_031.xhtml",
+            "id": 30,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_032.md",
+            "xhtml": "zavet_032.xhtml",
+            "id": 31,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_033.md",
+            "xhtml": "zavet_033.xhtml",
+            "id": 32,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_034.md",
+            "xhtml": "zavet_034.xhtml",
+            "id": 33,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zavet_035.md",
+            "xhtml": "zavet_035.xhtml",
+            "id": 34,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Závěť",
+      "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
+      "author": "François Villon",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2022-03-15T11:26:37.118Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_001.md",
+        "xhtml": "zavet_001.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_002.md",
+        "xhtml": "zavet_002.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_003.md",
+        "xhtml": "zavet_003.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_004.md",
+        "xhtml": "zavet_004.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_005.md",
+        "xhtml": "zavet_005.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_006.md",
+        "xhtml": "zavet_006.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_007.md",
+        "xhtml": "zavet_007.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_008.md",
+        "xhtml": "zavet_008.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_009.md",
+        "xhtml": "zavet_009.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_010.md",
+        "xhtml": "zavet_010.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_011.md",
+        "xhtml": "zavet_011.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_012.md",
+        "xhtml": "zavet_012.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_013.md",
+        "xhtml": "zavet_013.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_014.md",
+        "xhtml": "zavet_014.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_015.md",
+        "xhtml": "zavet_015.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_016.md",
+        "xhtml": "zavet_016.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_017.md",
+        "xhtml": "zavet_017.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_018.md",
+        "xhtml": "zavet_018.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_019.md",
+        "xhtml": "zavet_019.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_020.md",
+        "xhtml": "zavet_020.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_021.md",
+        "xhtml": "zavet_021.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_022.md",
+        "xhtml": "zavet_022.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_023.md",
+        "xhtml": "zavet_023.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_024.md",
+        "xhtml": "zavet_024.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_025.md",
+        "xhtml": "zavet_025.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_026.md",
+        "xhtml": "zavet_026.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_027.md",
+        "xhtml": "zavet_027.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_028.md",
+        "xhtml": "zavet_028.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_029.md",
+        "xhtml": "zavet_029.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_030.md",
+        "xhtml": "zavet_030.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_031.md",
+        "xhtml": "zavet_031.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_032.md",
+        "xhtml": "zavet_032.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_033.md",
+        "xhtml": "zavet_033.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_034.md",
+        "xhtml": "zavet_034.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zavet_035.md",
+        "xhtml": "zavet_035.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/idGeneratedStyles.css"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image003.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image004.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka_zavet3.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "Hyperlink",
+      "MLP_citacni_str_rozdeleni",
+      "MLP_dopis_podpis_-I-",
+      "MLP_licence_hypertext",
+      "MLP_licence_obrazek",
+      "MLP_licence_text",
+      "MLP_obrazky",
+      "MLP_text_bez1radku",
+      "MLP_text_bez1radku_-0-12-",
+      "MLP_text_bez1radku_-12-0-",
+      "MLP_tiraz_autor_a_nazev",
+      "MLP_titulka_autor",
+      "MLP_titulka_nazev",
+      "MLP_titulka_prekladatel",
+      "MLP_uroven2_basne",
+      "MLP_uroven3_basne",
+      "MLP_verse_-0-12-",
+      "ParaOverride-1",
+      "ParaOverride-3",
+      "Z-kladn--textový-r-meček",
+      "_idGenCharOverride-1",
+      "_idGenObjectAttribute-1",
+      "_idGenObjectAttribute-2",
+      "_idGenObjectLayout-1",
+      "_idGenObjectStyleOverride-1",
+      "_idGenParaOverride-1"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "zavet"
+    },
+    "generatedAt": 1647343597452
+  }
+}
