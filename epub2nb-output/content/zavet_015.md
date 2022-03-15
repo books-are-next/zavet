@@ -19,7 +19,7 @@ contentType: prose
 
 
 
-## \* \* \*
+* * *
 
 > Item, já svému obhájci —  
 > už mrtev je, slul Jean Cotart —  

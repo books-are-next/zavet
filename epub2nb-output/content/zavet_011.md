@@ -59,7 +59,7 @@ contentType: prose
 
 
 
-## \* \* \*
+* * *
 
 > Ta, které já tak věrně sloužil,  
 > tak upřímně, tak beze lsti,  

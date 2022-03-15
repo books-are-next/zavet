@@ -43,7 +43,7 @@ contentType: prose
 
 
 
-## \* \* \*
+* * *
 
 > Item, dbej, slečna de Bruyères,  
 > jež výtečně se v písmu zná,  

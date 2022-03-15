@@ -46,7 +46,7 @@ contentType: prose
 
 
 
-## \* \* \*
+* * *
 
 > Item, Ythieru Marchantovi,  
 > jemuž svůj meč jsem kdysi dal,  

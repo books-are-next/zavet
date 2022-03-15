@@ -44,7 +44,7 @@ contentType: prose
 
 
 
-## \* \* \*
+* * *
 
 > Item, pro mistra Courault je  
 > tu připravena replika  

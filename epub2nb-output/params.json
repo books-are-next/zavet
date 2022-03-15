@@ -13,10 +13,10 @@
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_basne",
       "subtitle": "",
-      "h2": "MLP-uroven3-nadpis\nMLP_uroven3_basne",
+      "h2": "MLP-uroven3-nadpis\n",
       "h3": "",
       "h4": "",
-      "hr": "",
+      "hr": "MLP_uroven3_basne",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
@@ -34,6 +34,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "zavet_001.md",
@@ -93,8 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Závěť"
+            "title": "Závěť",
+            "children": []
           },
           {
             "filename": "zavet_006.md",
@@ -106,8 +107,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Balada o dámách někdejší doby"
+            "title": "Balada o dámách někdejší doby",
+            "children": []
           },
           {
             "filename": "zavet_007.md",
@@ -131,8 +132,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Nářek někdejší sličné zbrojmistrové"
+            "title": "Nářek někdejší sličné zbrojmistrové",
+            "children": []
           },
           {
             "filename": "zavet_009.md",
@@ -144,8 +145,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Balada sličné zbrojmistrové nevěstkám"
+            "title": "Balada sličné zbrojmistrové nevěstkám",
+            "children": []
           },
           {
             "filename": "zavet_010.md",
@@ -169,8 +170,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Dvojbalada o bláznovství v lásce"
+            "title": "Dvojbalada o bláznovství v lásce",
+            "children": []
           },
           {
             "filename": "zavet_012.md",
@@ -194,8 +195,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Modlitba k Panně Mariisložená pro Villonovu matku"
+            "title": "Modlitba k Panně Mariisložená pro Villonovu matku",
+            "children": []
           },
           {
             "filename": "zavet_014.md",
@@ -219,8 +220,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Rondeau"
+            "title": "Rondeau",
+            "children": []
           },
           {
             "filename": "zavet_016.md",
@@ -244,8 +245,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Balada a modlitba"
+            "title": "Balada a modlitba",
+            "children": []
           },
           {
             "filename": "zavet_018.md",
@@ -269,8 +270,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Balada o jazycích klevetníků"
+            "title": "Balada o jazycích klevetníků",
+            "children": []
           },
           {
             "filename": "zavet_020.md",
@@ -294,8 +295,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Balada-protest"
+            "title": "Balada-protest",
+            "children": []
           },
           {
             "filename": "zavet_022.md",
@@ -319,8 +320,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Balada o zobáčku Pařížanek"
+            "title": "Balada o zobáčku Pařížanek",
+            "children": []
           },
           {
             "filename": "zavet_024.md",
@@ -344,8 +345,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Balada o tlusté Margot"
+            "title": "Balada o tlusté Margot",
+            "children": []
           },
           {
             "filename": "zavet_026.md",
@@ -357,8 +358,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Balada mravoučná"
+            "title": "Balada mravoučná",
+            "children": []
           },
           {
             "filename": "zavet_027.md",
@@ -394,8 +395,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Rondeau"
+            "title": "Rondeau",
+            "children": []
           },
           {
             "filename": "zavet_030.md",
@@ -419,8 +420,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Rondeau"
+            "title": "Rondeau",
+            "children": []
           },
           {
             "filename": "zavet_032.md",
@@ -444,8 +445,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Balada kajícná"
+            "title": "Balada kajícná",
+            "children": []
           },
           {
             "filename": "zavet_034.md",
@@ -457,8 +458,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "Balada závěrečná"
+            "title": "Balada závěrečná",
+            "children": []
           },
           {
             "filename": "zavet_035.md",
@@ -472,8 +473,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ],
     "replacements": []
@@ -484,7 +484,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "François Villon",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-15T12:37:07.713Z"
+      "modified": "2022-03-15T12:43:25.111Z"
     },
     "chapters": [
       {
@@ -760,6 +760,6 @@
       "user": "books-are-next",
       "repo": "zavet"
     },
-    "generatedAt": 1647347828067
+    "generatedAt": 1647348205466
   }
 }
