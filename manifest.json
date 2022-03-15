@@ -1,0 +1,833 @@
+{
+  "author": "François Villon",
+  "contenttype": "poetry",
+  "identifier": "villon-zavet-f5902db",
+  "languagecode": "cs",
+  "modified": "2022-03-15T11:26:37.118Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Závěť",
+  "revision": "f5902db",
+  "generatedAt": {
+    "date": "Tue Mar 15 2022 12:06:02 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1647345962722
+  },
+  "documents": [
+    {
+      "title": "Závěť",
+      "file": "zavet_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zavet_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "zavet_001.html",
+      "next": "zavet_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_003.html",
+      "words": 6,
+      "chars": 43,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zavet_002.html",
+      "next": "zavet_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_004.html",
+      "words": 79,
+      "chars": 524,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zavet_003.html",
+      "next": "zavet_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť • Závěť",
+      "file": "zavet_005.html",
+      "words": 1638,
+      "chars": 8532,
+      "ideas": 315,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zavet_004.html",
+      "next": "zavet_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Závěť",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Baladao dámách někdejší doby • Závěť",
+      "file": "zavet_006.html",
+      "words": 160,
+      "chars": 822,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zavet_005.html",
+      "next": "zavet_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Baladao dámách někdejší doby",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_007.html",
+      "words": 178,
+      "chars": 856,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zavet_006.html",
+      "next": "zavet_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Nářek někdejší sličné zbrojmistrové • Závěť",
+      "file": "zavet_008.html",
+      "words": 408,
+      "chars": 2160,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zavet_007.html",
+      "next": "zavet_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nářek někdejší sličné zbrojmistrové",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Balada sličné zbrojmistrové nevěstkám • Závěť",
+      "file": "zavet_009.html",
+      "words": 140,
+      "chars": 805,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zavet_008.html",
+      "next": "zavet_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balada sličné zbrojmistrové nevěstkám",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_010.html",
+      "words": 288,
+      "chars": 1439,
+      "ideas": 57,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zavet_009.html",
+      "next": "zavet_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Dvojbalada o bláznovství v lásce • Závěť",
+      "file": "zavet_011.html",
+      "words": 267,
+      "chars": 1386,
+      "ideas": 49,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zavet_010.html",
+      "next": "zavet_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dvojbalada o bláznovství v lásce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_012.html",
+      "words": 715,
+      "chars": 3828,
+      "ideas": 145,
+      "role": "chapter",
+      "order": 11,
+      "prev": "zavet_011.html",
+      "next": "zavet_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Modlitba k Panně Mariisložená pro Villonovu matku • Závěť",
+      "file": "zavet_013.html",
+      "words": 241,
+      "chars": 1283,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 12,
+      "prev": "zavet_012.html",
+      "next": "zavet_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Modlitba k Panně Mariisložená pro Villonovu matku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_014.html",
+      "words": 42,
+      "chars": 225,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 13,
+      "prev": "zavet_013.html",
+      "next": "zavet_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rondeau • Závěť",
+      "file": "zavet_015.html",
+      "words": 55,
+      "chars": 281,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 14,
+      "prev": "zavet_014.html",
+      "next": "zavet_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rondeau",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_016.html",
+      "words": 47,
+      "chars": 237,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 15,
+      "prev": "zavet_015.html",
+      "next": "zavet_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Balada a modlitba • Závěť",
+      "file": "zavet_017.html",
+      "words": 187,
+      "chars": 966,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 16,
+      "prev": "zavet_016.html",
+      "next": "zavet_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balada a modlitba",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_018.html",
+      "words": 37,
+      "chars": 209,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 17,
+      "prev": "zavet_017.html",
+      "next": "zavet_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Balada o jazycích klevetníků • Závěť",
+      "file": "zavet_019.html",
+      "words": 232,
+      "chars": 1218,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 18,
+      "prev": "zavet_018.html",
+      "next": "zavet_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balada o jazycích klevetníků",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_020.html",
+      "words": 41,
+      "chars": 223,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 19,
+      "prev": "zavet_019.html",
+      "next": "zavet_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Balada-protest • Závěť",
+      "file": "zavet_021.html",
+      "words": 237,
+      "chars": 1190,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 20,
+      "prev": "zavet_020.html",
+      "next": "zavet_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balada-protest",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_022.html",
+      "words": 39,
+      "chars": 204,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 21,
+      "prev": "zavet_021.html",
+      "next": "zavet_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Balada o zobáčku Pařížanek • Závěť",
+      "file": "zavet_023.html",
+      "words": 130,
+      "chars": 765,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 22,
+      "prev": "zavet_022.html",
+      "next": "zavet_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balada o zobáčku Pařížanek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_024.html",
+      "words": 47,
+      "chars": 236,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 23,
+      "prev": "zavet_023.html",
+      "next": "zavet_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Balada o tlusté Margot • Závěť",
+      "file": "zavet_025.html",
+      "words": 248,
+      "chars": 1275,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 24,
+      "prev": "zavet_024.html",
+      "next": "zavet_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balada o tlusté Margot",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Balada mravoučná • Závěť",
+      "file": "zavet_026.html",
+      "words": 148,
+      "chars": 789,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 25,
+      "prev": "zavet_025.html",
+      "next": "zavet_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balada mravoučná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_027.html",
+      "words": 202,
+      "chars": 1063,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 26,
+      "prev": "zavet_026.html",
+      "next": "zavet_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_028.html",
+      "words": 45,
+      "chars": 218,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 27,
+      "prev": "zavet_027.html",
+      "next": "zavet_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rondeau • Závěť",
+      "file": "zavet_029.html",
+      "words": 59,
+      "chars": 303,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 28,
+      "prev": "zavet_028.html",
+      "next": "zavet_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rondeau",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_030.html",
+      "words": 80,
+      "chars": 425,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 29,
+      "prev": "zavet_029.html",
+      "next": "zavet_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rondeau • Závěť",
+      "file": "zavet_031.html",
+      "words": 60,
+      "chars": 327,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 30,
+      "prev": "zavet_030.html",
+      "next": "zavet_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rondeau",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_032.html",
+      "words": 46,
+      "chars": 221,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 31,
+      "prev": "zavet_031.html",
+      "next": "zavet_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": [
+            {
+              "index": 1,
+              "level": 2,
+              "name": "* * *",
+              "id": "--",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Balada kajícná • Závěť",
+      "file": "zavet_033.html",
+      "words": 129,
+      "chars": 746,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 32,
+      "prev": "zavet_032.html",
+      "next": "zavet_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balada kajícná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Balada závěrečná • Závěť",
+      "file": "zavet_034.html",
+      "words": 141,
+      "chars": 741,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 33,
+      "prev": "zavet_033.html",
+      "next": "zavet_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balada závěrečná",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Závěť",
+      "file": "zavet_035.html",
+      "words": 47,
+      "chars": 304,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 34,
+      "prev": "zavet_034.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 6424,
+      "chars": 33872,
+      "ideas": 1225
+    },
+    "chapters": {
+      "words": 6419,
+      "chars": 33844,
+      "ideas": 1221
+    }
+  }
+}
