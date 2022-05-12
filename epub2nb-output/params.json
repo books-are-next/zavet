@@ -52,7 +52,7 @@
             "filename": "zavet_002.md",
             "xhtml": "zavet_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "listType": "plain",
             "inToc": false,
             "hungry": false,
@@ -475,8 +475,7 @@
           }
         ]
       }
-    ],
-    "replacements": []
+    ]
   },
   "epub": {
     "metadata": {
@@ -484,7 +483,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "François Villon",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2022-03-15T13:27:42.757Z"
+      "modified": "2021-08-04T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -760,6 +759,6 @@
       "user": "books-are-next",
       "repo": "zavet"
     },
-    "generatedAt": 1647350863106
+    "generatedAt": 1652351488079
   }
 }

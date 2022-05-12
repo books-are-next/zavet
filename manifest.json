@@ -1,21 +1,43 @@
 {
-  "author": "François Villon",
-  "contenttype": "poetry",
-  "identifier": "villon-zavet-a37048d",
-  "languagecode": "cs",
-  "modified": "2022-03-15T11:26:37.118Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Závěť",
-  "revision": "a37048d",
+  "author": "François Villon",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "villon-zavet-8cdb158",
+  "revision": "8cdb158",
+  "readingOrder": [
+    "promo.html",
+    "zavet_005.html",
+    "zavet_006.html",
+    "zavet_008.html",
+    "zavet_009.html",
+    "zavet_011.html",
+    "zavet_013.html",
+    "zavet_015.html",
+    "zavet_017.html",
+    "zavet_019.html",
+    "zavet_021.html",
+    "zavet_023.html",
+    "zavet_025.html",
+    "zavet_026.html",
+    "zavet_029.html",
+    "zavet_031.html",
+    "zavet_033.html",
+    "zavet_034.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue Mar 15 2022 13:28:39 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1647350919617
+    "date": "Thu May 12 2022 10:40:10 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352010212
   },
   "documents": [
     {
-      "title": "Závěť",
-      "file": "zavet_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +45,17 @@
       "order": 0,
       "prev": null,
       "next": "zavet_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Závěť • Závěť",
+      "title": "Závěť",
       "file": "zavet_005.html",
       "words": 1638,
       "chars": 8532,
       "ideas": 315,
       "role": "chapter",
       "order": 1,
-      "prev": "zavet_002.html",
+      "prev": "promo.html",
       "next": "zavet_006.html",
       "toc": [
         {
@@ -54,7 +68,7 @@
       ]
     },
     {
-      "title": "Baladao dámách někdejší doby • Závěť",
+      "title": "Baladao dámách někdejší doby",
       "file": "zavet_006.html",
       "words": 338,
       "chars": 1678,
@@ -74,7 +88,7 @@
       ]
     },
     {
-      "title": "Nářek někdejší sličné zbrojmistrové • Závěť",
+      "title": "Nářek někdejší sličné zbrojmistrové",
       "file": "zavet_008.html",
       "words": 408,
       "chars": 2160,
@@ -94,7 +108,7 @@
       ]
     },
     {
-      "title": "Balada sličné zbrojmistrové nevěstkám • Závěť",
+      "title": "Balada sličné zbrojmistrové nevěstkám",
       "file": "zavet_009.html",
       "words": 428,
       "chars": 2244,
@@ -114,7 +128,7 @@
       ]
     },
     {
-      "title": "Dvojbalada o bláznovství v lásce • Závěť",
+      "title": "Dvojbalada o bláznovství v lásce",
       "file": "zavet_011.html",
       "words": 982,
       "chars": 5214,
@@ -134,7 +148,7 @@
       ]
     },
     {
-      "title": "Modlitba k Panně Mariisložená pro Villonovu matku • Závěť",
+      "title": "Modlitba k Panně Mariisložená pro Villonovu matku",
       "file": "zavet_013.html",
       "words": 283,
       "chars": 1508,
@@ -154,7 +168,7 @@
       ]
     },
     {
-      "title": "Rondeau • Závěť",
+      "title": "Rondeau",
       "file": "zavet_015.html",
       "words": 102,
       "chars": 518,
@@ -174,7 +188,7 @@
       ]
     },
     {
-      "title": "Balada a modlitba • Závěť",
+      "title": "Balada a modlitba",
       "file": "zavet_017.html",
       "words": 224,
       "chars": 1175,
@@ -194,7 +208,7 @@
       ]
     },
     {
-      "title": "Balada o jazycích klevetníků • Závěť",
+      "title": "Balada o jazycích klevetníků",
       "file": "zavet_019.html",
       "words": 273,
       "chars": 1441,
@@ -214,7 +228,7 @@
       ]
     },
     {
-      "title": "Balada-protest • Závěť",
+      "title": "Balada-protest",
       "file": "zavet_021.html",
       "words": 276,
       "chars": 1394,
@@ -234,7 +248,7 @@
       ]
     },
     {
-      "title": "Balada o zobáčku Pařížanek • Závěť",
+      "title": "Balada o zobáčku Pařížanek",
       "file": "zavet_023.html",
       "words": 177,
       "chars": 1001,
@@ -254,7 +268,7 @@
       ]
     },
     {
-      "title": "Balada o tlusté Margot • Závěť",
+      "title": "Balada o tlusté Margot",
       "file": "zavet_025.html",
       "words": 248,
       "chars": 1275,
@@ -274,7 +288,7 @@
       ]
     },
     {
-      "title": "Balada mravoučná • Závěť",
+      "title": "Balada mravoučná",
       "file": "zavet_026.html",
       "words": 395,
       "chars": 2070,
@@ -294,7 +308,7 @@
       ]
     },
     {
-      "title": "Rondeau • Závěť",
+      "title": "Rondeau",
       "file": "zavet_029.html",
       "words": 139,
       "chars": 728,
@@ -314,7 +328,7 @@
       ]
     },
     {
-      "title": "Rondeau • Závěť",
+      "title": "Rondeau",
       "file": "zavet_031.html",
       "words": 106,
       "chars": 548,
@@ -334,7 +348,7 @@
       ]
     },
     {
-      "title": "Balada kajícná • Závěť",
+      "title": "Balada kajícná",
       "file": "zavet_033.html",
       "words": 129,
       "chars": 746,
@@ -354,7 +368,7 @@
       ]
     },
     {
-      "title": "Balada závěrečná • Závěť",
+      "title": "Balada závěrečná",
       "file": "zavet_034.html",
       "words": 141,
       "chars": 741,
@@ -374,11 +388,11 @@
       ]
     },
     {
-      "title": "Tiráž • Závěť",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 133,
-      "chars": 876,
-      "ideas": 23,
+      "words": 113,
+      "chars": 723,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "zavet_034.html",
@@ -396,9 +410,9 @@
   ],
   "totals": {
     "all": {
-      "words": 6424,
-      "chars": 33872,
-      "ideas": 1225
+      "words": 6404,
+      "chars": 33719,
+      "ideas": 1219
     },
     "chapters": {
       "words": 6287,

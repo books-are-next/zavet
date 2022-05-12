@@ -13,7 +13,7 @@ meta:
   modified: '2022-03-15T11:26:37.118Z'
   publisherShort: mkp
 readingOrder:
-  - zavet_002.html
+  - promo.html
   - zavet_005.html
   - zavet_006.html
   - zavet_008.html
