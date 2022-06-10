@@ -1,7 +1,9 @@
 ---
 title: Závěť
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 _kterou Villon skládal r. 1461 v okolí Paříže,  
 kam se uchýlil, byv propuštěn z vězení biskupova_
@@ -356,3 +358,5 @@ kam se uchýlil, byv propuštěn z vězení biskupova_
 > Ty sladké tělo zářivé,  
 > hle, budoucnost, jež na tě civí!  
 > V ráj můžeš, ale neživé.
+
+</section>

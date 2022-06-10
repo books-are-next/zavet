@@ -1,7 +1,9 @@
 ---
 title: "Balada a\_modlitba"
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Praotče Noe, vinic pěstiteli —  
 > Lote, jenž zpil ses do bezvědomí,  
@@ -35,7 +37,11 @@ contentType: prose
 > on, který žízní, jako žíznil vždy,  
 > ten slavný pijan, mistr Jean Cotart!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -47,3 +53,5 @@ contentType: prose
 > těm udavačům Perdrier.  
 > Jak že lze vyzrát na jazyky?  
 > Prostinký na to recept je:
+
+</section>

@@ -1,7 +1,9 @@
 ---
 title: Balada závěrečná
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Toť k závěti Epilogus:  
 > Chudák už dotrpěl Villon.  
@@ -34,3 +36,5 @@ contentType: prose
 > co myslíte, že udělal?  
 > Máz burgundského vyzunk on,  
 > než se světem se rozžehnal.
+
+</section>

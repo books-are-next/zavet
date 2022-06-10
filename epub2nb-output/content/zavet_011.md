@@ -1,7 +1,9 @@
 ---
 title: "Dvojbalada o\_bláznovství v\_lásce"
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Tak milkujte si jenom dál  
 > a choďte, kde se slavnost slaví;  
@@ -57,7 +59,11 @@ contentType: prose
 > Ať neřád blond je nebo tmavý —  
 > šťasten, kdo s tímhle nemá nic!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -222,3 +228,5 @@ contentType: prose
 > Není nám azylu a statku,  
 > když neštěstí a nouze dují,  
 > než vzýváme-li Boží matku.
+
+</section>

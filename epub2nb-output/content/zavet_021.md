@@ -1,7 +1,9 @@
 ---
 title: Balada-protest
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > V útulnou komnatu já dírkou hleděl,  
 > kde hoří krb a čaloun stěnu kryje;  
@@ -41,7 +43,11 @@ contentType: prose
 > už v dětství slyšel jsem ten moudrý hlas:  
 > Žít v komfortu, ach, nad to v světě není!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -53,3 +59,5 @@ contentType: prose
 > s nimi, co klofou zobákem,  
 > nechť někde mimo hřbitov má.  
 > Nejraděj z tržiště je vem!
+
+</section>

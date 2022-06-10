@@ -1,7 +1,9 @@
 ---
 title: Balada sličné zbrojmistrové nevěstkám
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > „Jen pomni, ach rukavičkářko,  
 > jež mnou jsi byla vyváděna,  
@@ -35,7 +37,11 @@ contentType: prose
 > protože už je vyřazena  
 > tak jako mince, kterou stáhli.“
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -101,3 +107,5 @@ contentType: prose
 > neb všeobecně známo jest,  
 > že jednotka jen půl je dvou  
 > a dvakrát tři že dělá šest.
+
+</section>

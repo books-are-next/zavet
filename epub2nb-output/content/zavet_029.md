@@ -1,7 +1,9 @@
 ---
 title: Rondeau
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Teď, když jsem zpátky z vězení,  
 > kde málem vypustil jsem duši,  
@@ -17,7 +19,11 @@ contentType: prose
 > ať mohu po všem soužení  
 >      k Bohu zpátky!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -38,3 +44,5 @@ contentType: prose
 > vše rozdal, stůl i kredenci  
 > a poslední svůj groš a bon.  
 > Nuž, modlete se, milenci.“
+
+</section>
