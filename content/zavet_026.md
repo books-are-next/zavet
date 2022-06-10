@@ -1,7 +1,9 @@
 ---
 title: Balada mravoučná
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Ať falešně znáš v kostky hráti  
 > či odpustky-li prodáváš,  
@@ -35,7 +37,11 @@ contentType: prose
 > jdi promazat, ať nastrkáš  
 > všechno jen do putyk a ženským!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -84,7 +90,11 @@ contentType: prose
 > smíchem ni hrou jich nevzkřísíš.  
 > Spasitel dej jim rozhřešení!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -96,3 +106,5 @@ contentType: prose
 > být změněn v odrhovačku  
 > s pouťovou notou Nanynek,  
 > to by šel arci na dračku:
+
+</section>

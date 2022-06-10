@@ -1,7 +1,9 @@
 ---
 title: "Baladao\_dámách někdejší doby"
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Kdeže, ba kde je — kdo as ví? —  
 > ta Flóra, co kdys v Římě žila;  
@@ -35,7 +37,11 @@ contentType: prose
 > jen vůně refrénu vám zbyla:  
 > Ach, kdeže loňské sněhy jsou!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -74,3 +80,5 @@ contentType: prose
 > a jakým právem stvořil Pán.  
 > A On, když baby spílají,  
 > radš mlčí jako zařezán.
+
+</section>

@@ -1,7 +1,9 @@
 ---
 title: "Balada o\_zobáčku Pařížanek"
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Sic dobrou vyřídilku mají  
 > jak v Benátkách, tak Florenťanky  
@@ -35,7 +37,11 @@ contentType: prose
 > Žvatlají sic i Taliánky —  
 > však Paříž, Paříž hraje prim!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -47,3 +53,5 @@ contentType: prose
 > mne ona nemá nerada.  
 > Kdo by jí něco přinést chtěli,  
 > zde, prosím, pro ni balada:
+
+</section>

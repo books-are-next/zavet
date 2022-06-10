@@ -1,7 +1,9 @@
 ---
 title: Rondeau
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Smrti, že potěšení mé  
 > mi odešlo, jen ty máš vinu.  
@@ -17,7 +19,11 @@ contentType: prose
 > cos jako žití neživé,  
 >      Smrti!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -29,3 +35,5 @@ contentType: prose
 > pro jistou ženskou na mne vložil.  
 > Prosbu, jež balady má tvar,  
 > za jeho duši já jsem složil:
+
+</section>

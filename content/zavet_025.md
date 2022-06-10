@@ -1,7 +1,9 @@
 ---
 title: "Balada o\_tlusté Margot"
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Své dámě sloužím-li a mám ji rád,  
 > zda sprostým ťulpasem se proto zvu?  
@@ -43,3 +45,5 @@ contentType: prose
 > Oh, tahle špína! Špína je nám vhod.  
 > Nás život vypliv. Plijem na život  
 > zde v hampejzu, kde rozbili jsme stan.
+
+</section>

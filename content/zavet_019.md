@@ -1,7 +1,9 @@
 ---
 title: "Balada o\_jazycích klevetníků"
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Vem arzenik a olovo tam vlej,  
 > posypej sírou, co se svařilo tu,  
@@ -42,7 +44,11 @@ contentType: prose
 > trus prasat vem, to zvlášť si připomeň,  
 > a škvař v tom jazyky svých klevetníků!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -54,3 +60,5 @@ contentType: prose
 > též chudobě tam vzdán je dík,  
 > na niž přec kdekdo naříká.  
 > Z té pochvaly můj protest vznik:
+
+</section>

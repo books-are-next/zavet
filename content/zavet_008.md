@@ -1,7 +1,9 @@
 ---
 title: Nářek někdejší sličné zbrojmistrové
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Slyším, jak babka naříká,  
 > jež slula „sličná zbrojmistrová“,  
@@ -92,3 +94,5 @@ contentType: prose
 > A někdy leckterá z nás řekne:  
 > Jo, světa běh tu vidíme…  
 > A jednou byly jsme tak pěkné!“
+
+</section>

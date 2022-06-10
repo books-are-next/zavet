@@ -1,7 +1,9 @@
 ---
 title: Balada kajícná
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Z kartouzy mniši — žebráci —  
 > dominikáni — řeholníci —  
@@ -34,3 +36,5 @@ contentType: prose
 > se do hmoždíře dostane  
 > a cucky zbudou pod palicí…  
 > Odpusťte, všichni křesťané!
+
+</section>

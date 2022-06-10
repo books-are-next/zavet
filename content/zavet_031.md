@@ -1,7 +1,9 @@
 ---
 title: Rondeau
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Nechť lehké spočinutí má,  
 > nechť v nebesích má věčnou spásu,  
@@ -17,7 +19,11 @@ contentType: prose
 > záda měl celá zmodralá.  
 > Nechť lehké spočinutí má!
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -29,3 +35,5 @@ contentType: prose
 > ať po hlavě či na pohlaví,  
 > všechno mne pálí; už je čas,  
 > i skoncuji co hříšník lkavý:
+
+</section>

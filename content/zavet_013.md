@@ -1,7 +1,9 @@
 ---
 title: "Modlitba k\_Panně Mariisložená pro Villonovu matku"
-contentType: prose
+contentType: poetry
 ---
+
+<section>
 
 > Královno nebes, je ti podrobena,  
 > má kněžno, propast pekelná i zem;  
@@ -44,7 +46,11 @@ contentType: prose
 > Náš pán je, před ním zbožnost má se sklání.  
 > Já v této víře žít a umřít chci.
 
+</section>
 
+
+
+<section>
 
 \* \* \*
 
@@ -56,3 +62,5 @@ contentType: prose
 > nad rovem těch, jimž galán byl.  
 > (To bych se nediskrétním stal,  
 > kdybych i jména vyzvonil.)
+
+</section>
