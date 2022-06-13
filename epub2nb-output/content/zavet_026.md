@@ -40,7 +40,6 @@ contentType: poetry
 </section>
 
 
-
 <section>
 
 \* \* \*
@@ -91,8 +90,6 @@ contentType: poetry
 > Spasitel dej jim rozhřešení!
 
 </section>
-
-
 
 <section>
 

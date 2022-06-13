@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-e30002b';
+const CACHE = 'cache-65bf77a';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./zavet_005.html","./zavet_006.html","./zavet_008.html","./zavet_009.html","./zavet_011.html","./zavet_013.html","./zavet_015.html","./zavet_017.html","./zavet_019.html","./zavet_021.html","./zavet_023.html","./zavet_025.html","./zavet_026.html","./zavet_029.html","./zavet_031.html","./zavet_034.html","./zavet_033.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_zavet3.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./promo.html","./zavet_005.html","./zavet_006.html","./zavet_008.html","./zavet_009.html","./zavet_011.html","./zavet_013.html","./zavet_015.html","./zavet_017.html","./zavet_019.html","./zavet_021.html","./zavet_023.html","./zavet_025.html","./zavet_026.html","./zavet_029.html","./zavet_031.html","./zavet_033.html","./zavet_034.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001.jpg","./resources/image003.jpg","./resources/image004.jpg","./resources/obalka_zavet3.jpg","./resources/upoutavka_eknihy.jpg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
