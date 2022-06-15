@@ -7,8 +7,8 @@
   "publisher": "Městská knihovna v Praze",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "villon-zavet-65bf77a",
-  "revision": "65bf77a",
+  "identifier": "villon-zavet-4175a34",
+  "revision": "4175a34",
   "readingOrder": [
     "promo.html",
     "zavet_005.html",
@@ -31,8 +31,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 22:00:01 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655157601781
+    "date": "Wed Jun 15 2022 06:00:00 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655272800492
   },
   "documents": [
     {
@@ -390,8 +390,8 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 107,
-      "chars": 687,
+      "words": 121,
+      "chars": 794,
       "ideas": 16,
       "role": "colophon",
       "order": null,
@@ -410,8 +410,8 @@
   ],
   "totals": {
     "all": {
-      "words": 6398,
-      "chars": 33683,
+      "words": 6412,
+      "chars": 33790,
       "ideas": 1218
     },
     "chapters": {
