@@ -8,7 +8,8 @@
       "author": "François Villon",
       "publisher": "Městská knihovna v Praze",
       "modified": "2022-03-15T11:26:37.118Z",
-      "publisherShort": "mkp"
+      "publisherShort": "mkp",
+      "edition": "poezie"
     },
     "elements": {
       "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\nMLP_uroven2_basne",
@@ -759,6 +760,6 @@
       "user": "books-are-next",
       "repo": "zavet"
     },
-    "generatedAt": 1655271899057
+    "generatedAt": 1655364425242
   }
 }

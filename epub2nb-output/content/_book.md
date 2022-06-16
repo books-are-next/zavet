@@ -12,6 +12,7 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2022-03-15T11:26:37.118Z'
   publisherShort: mkp
+  edition: poezie
 readingOrder:
   - promo.html
   - zavet_005.html
