@@ -32,7 +32,7 @@ readingOrder:
   - zavet_031.html
   - zavet_033.html
   - zavet_034.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
