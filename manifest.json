@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "villon-zavet-44c452b",
-  "revision": "44c452b",
+  "identifier": "villon-zavet-c2a4cb6",
+  "revision": "c2a4cb6",
   "readingOrder": [
     "promo.html",
     "zavet_005.html",
@@ -32,8 +32,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 16:08:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664640534474
+    "date": "Tue Oct 04 2022 16:56:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664902599800
   },
   "documents": [
     {
@@ -391,9 +391,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 121,
+      "words": 118,
       "chars": 794,
-      "ideas": 16,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "zavet_034.html",
@@ -411,9 +411,9 @@
   ],
   "totals": {
     "all": {
-      "words": 6413,
+      "words": 6410,
       "chars": 33796,
-      "ideas": 1219
+      "ideas": 1216
     },
     "chapters": {
       "words": 6287,
